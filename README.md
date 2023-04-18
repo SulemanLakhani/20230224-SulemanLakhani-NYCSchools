@@ -1,8 +1,8 @@
 # 20230407-SulemanLakhani-NYCSchools
 
-I have used Kotlin language for the coding part of this challenge.
+I have used Kotlin language for the coding part.
 
-The completed code challenge contains 
+The completed code contains 
 
 ## Two data classes
     1) School - List of Schools
