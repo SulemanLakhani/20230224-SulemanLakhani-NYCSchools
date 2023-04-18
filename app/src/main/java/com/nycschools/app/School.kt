@@ -3,6 +3,7 @@ package com.nycschools.app
 import android.os.Parcel
 import android.os.Parcelable
 
+//School data class
 data class School(
     var dbn: String?,
     var name: String?,

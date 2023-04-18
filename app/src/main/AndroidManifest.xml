@@ -11,7 +11,7 @@
             android:icon="@mipmap/ic_launcher"
             android:label="@string/app_name"
             android:supportsRtl="true"
-            android:theme="@style/Theme.20230224SulemanLakhaniNYCSchools"
+            android:theme="@style/Theme.20230407SulemanLakhaniNYCSchools"
             tools:targetApi="31">
 
         <activity

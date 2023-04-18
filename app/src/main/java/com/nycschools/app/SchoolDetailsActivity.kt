@@ -9,6 +9,7 @@ class SchoolDetailsActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_school_details)
+
         val abnView : TextView = findViewById(R.id.abn)
         val nameView : TextView = findViewById(R.id.name)
         val addressView : TextView = findViewById(R.id.address)

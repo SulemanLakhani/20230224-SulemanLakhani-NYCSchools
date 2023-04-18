@@ -3,6 +3,7 @@ package com.nycschools.app
 import android.os.Parcel
 import android.os.Parcelable
 
+//SatScore data class
 data class SatScore(
     var dbn: String?,
     var schoolName: String?,
